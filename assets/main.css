@@ -1,0 +1,16 @@
+.rtlDir, p , h1 , h3, h2 , h4 , h5 , a , span , button, r {
+    direction: rtl !important;
+}
+.standrArabicFont , p , h1 , h3, h2 , h4 , h5 , a , span , button {
+    font-family: 'Cairo', sans-serif !important ; 
+}
+.rtlText{
+    text-align: right ! important ;
+}
+.cntrText {
+    text-align: center !important;
+}
+.leftText{
+    direction: ltr !important;
+    text-align: left !important;
+}
